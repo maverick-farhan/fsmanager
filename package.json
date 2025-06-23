@@ -1,0 +1,23 @@
+{
+  "name": "fsmanager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maverick-farhan/fsmanager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maverick-farhan/fsmanager/issues"
+  },
+  "homepage": "https://github.com/maverick-farhan/fsmanager#readme",
+  "description": "",
+  "dependencies": {
+    "yoctocolors-cjs": "^2.1.2"
+  }
+}
